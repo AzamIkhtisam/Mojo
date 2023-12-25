@@ -35,7 +35,7 @@ button {
   position: absolute;
   width: 150px;
   height: inherit;
-  color: yellow;
+  color: white;
   font-size: 1.2rem;
   border-radius: 30px;
   outline: none;
@@ -52,6 +52,6 @@ button:nth-child(1) {
 
 button:nth-child(2) {
   margin-right: -200px;
-  background: yellow;
+  background: white;
   color: #e94d58;
 }
